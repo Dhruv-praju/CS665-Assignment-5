@@ -6,7 +6,7 @@
 | Course       | Spring      |
 | Assignment 5 |                            |
 
-# Assignment Implementation Details
+# Assignment Details
 The open-source project for used in this assignment is 
 -   **JUnit 4**
 https://github.com/junit-team/junit4
